@@ -1,8 +1,8 @@
 # PCA: EXP-1  SUM ARRAY GPU
-# NAME : HARINI B.
-# REGISTER NUMBER : 212221230035
+# NAME : Vijay R.
+# REGISTER NUMBER : 212221230121
 # EXP NO : 01
-# DATE : 28.02.2024
+# DATE : 06.03.2024
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
